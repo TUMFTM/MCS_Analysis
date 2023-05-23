@@ -6,7 +6,7 @@ This repository provides the open-source code to the following Paper:
 The novel Megawatt Charging System standard 
 //  Implications on battery size and cell requirements for battery-electric long-haul trucks
 
-DOI: 
+DOI: https://doi.org/10.1016/j.etran.2023.100253
 
 Following contributions of the mentioned paper, are provided by this repo:
 
